@@ -28,6 +28,12 @@ This project addresses the critical need for real-time multi-user communication 
 - **Threading (`threading` module)**: Employed to manage multiple clients simultaneously on the server side.
 
 ## Screenshots 
+<p align="center">
+  <!-- Replace with your actual screenshots -->
+  <img width="600" src="https://github.com/RlM100always/Hisab/blob/main/groupchat/Screenshot%202025-07-17%20192640.png?raw=true" />
+  <img width="600" src="https://github.com/RlM100always/Hisab/blob/main/groupchat/Screenshot%202025-07-17%20192649.png?raw=true" />
+  <img width="600" src="https://github.com/RlM100always/Hisab/blob/main/groupchat/Screenshot%202025-07-17%20193038.png?raw=true" />
+</p>
 
 
 ## Acknowledgements
